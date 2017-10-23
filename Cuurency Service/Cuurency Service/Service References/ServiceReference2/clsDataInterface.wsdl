@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.ibaspro.com.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://www.ibaspro.com.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://www.ibaspro.com.org/">
+      <s:element name="fnExecute">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ProcedureName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Action" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="HeaderXml" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="GridXml" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="MasterXml" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="RowId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="OldRowId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="DocRef" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="DocDpdRef" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnExecuteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fnExecuteResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnExecute_Query">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="QueryString" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnExecute_QueryResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fnExecute_QueryResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnExecute_Hlp">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ProcedureName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="objParam" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="fnExecute_HlpResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fnExecute_HlpResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnGetFileContent">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FileContent" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnGetFileContentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fnGetFileContentResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnWriteFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FileContent" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnWriteFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fnWriteFileResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SSISExecute">
+        <s:complexType />
+      </s:element>
+      <s:element name="SSISExecuteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SSISExecuteResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnWriteFileContent">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="str" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnWriteFileContentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fnWriteFileContentResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnGetBuildXML">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FileCnt" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="Typ" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="fnGetBuildXMLResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fnGetBuildXMLResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="fnExecuteSoapIn">
+    <wsdl:part name="parameters" element="tns:fnExecute" />
+  </wsdl:message>
+  <wsdl:message name="fnExecuteSoapOut">
+    <wsdl:part name="parameters" element="tns:fnExecuteResponse" />
+  </wsdl:message>
+  <wsdl:message name="fnExecute_QuerySoapIn">
+    <wsdl:part name="parameters" element="tns:fnExecute_Query" />
+  </wsdl:message>
+  <wsdl:message name="fnExecute_QuerySoapOut">
+    <wsdl:part name="parameters" element="tns:fnExecute_QueryResponse" />
+  </wsdl:message>
+  <wsdl:message name="fnExecute_HlpSoapIn">
+    <wsdl:part name="parameters" element="tns:fnExecute_Hlp" />
+  </wsdl:message>
+  <wsdl:message name="fnExecute_HlpSoapOut">
+    <wsdl:part name="parameters" element="tns:fnExecute_HlpResponse" />
+  </wsdl:message>
+  <wsdl:message name="fnGetFileContentSoapIn">
+    <wsdl:part name="parameters" element="tns:fnGetFileContent" />
+  </wsdl:message>
+  <wsdl:message name="fnGetFileContentSoapOut">
+    <wsdl:part name="parameters" element="tns:fnGetFileContentResponse" />
+  </wsdl:message>
+  <wsdl:message name="fnWriteFileSoapIn">
+    <wsdl:part name="parameters" element="tns:fnWriteFile" />
+  </wsdl:message>
+  <wsdl:message name="fnWriteFileSoapOut">
+    <wsdl:part name="parameters" element="tns:fnWriteFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="SSISExecuteSoapIn">
+    <wsdl:part name="parameters" element="tns:SSISExecute" />
+  </wsdl:message>
+  <wsdl:message name="SSISExecuteSoapOut">
+    <wsdl:part name="parameters" element="tns:SSISExecuteResponse" />
+  </wsdl:message>
+  <wsdl:message name="fnWriteFileContentSoapIn">
+    <wsdl:part name="parameters" element="tns:fnWriteFileContent" />
+  </wsdl:message>
+  <wsdl:message name="fnWriteFileContentSoapOut">
+    <wsdl:part name="parameters" element="tns:fnWriteFileContentResponse" />
+  </wsdl:message>
+  <wsdl:message name="fnGetBuildXMLSoapIn">
+    <wsdl:part name="parameters" element="tns:fnGetBuildXML" />
+  </wsdl:message>
+  <wsdl:message name="fnGetBuildXMLSoapOut">
+    <wsdl:part name="parameters" element="tns:fnGetBuildXMLResponse" />
+  </wsdl:message>
+  <wsdl:portType name="clsDataInterfaceSoap">
+    <wsdl:operation name="fnExecute">
+      <wsdl:input message="tns:fnExecuteSoapIn" />
+      <wsdl:output message="tns:fnExecuteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="fnExecute_Query">
+      <wsdl:input message="tns:fnExecute_QuerySoapIn" />
+      <wsdl:output message="tns:fnExecute_QuerySoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="fnExecute_Hlp">
+      <wsdl:input message="tns:fnExecute_HlpSoapIn" />
+      <wsdl:output message="tns:fnExecute_HlpSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="fnGetFileContent">
+      <wsdl:input message="tns:fnGetFileContentSoapIn" />
+      <wsdl:output message="tns:fnGetFileContentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="fnWriteFile">
+      <wsdl:input message="tns:fnWriteFileSoapIn" />
+      <wsdl:output message="tns:fnWriteFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SSISExecute">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">SSIS Execute</wsdl:documentation>
+      <wsdl:input message="tns:SSISExecuteSoapIn" />
+      <wsdl:output message="tns:SSISExecuteSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="fnWriteFileContent">
+      <wsdl:input message="tns:fnWriteFileContentSoapIn" />
+      <wsdl:output message="tns:fnWriteFileContentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="fnGetBuildXML">
+      <wsdl:input message="tns:fnGetBuildXMLSoapIn" />
+      <wsdl:output message="tns:fnGetBuildXMLSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="clsDataInterfaceSoap" type="tns:clsDataInterfaceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="fnExecute">
+      <soap:operation soapAction="http://www.ibaspro.com.org/fnExecute" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnExecute_Query">
+      <soap:operation soapAction="http://www.ibaspro.com.org/fnExecute_Query" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnExecute_Hlp">
+      <soap:operation soapAction="http://www.ibaspro.com.org/fnExecute_Hlp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnGetFileContent">
+      <soap:operation soapAction="http://www.ibaspro.com.org/fnGetFileContent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnWriteFile">
+      <soap:operation soapAction="http://www.ibaspro.com.org/fnWriteFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SSISExecute">
+      <soap:operation soapAction="http://www.ibaspro.com.org/SSISExecute" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnWriteFileContent">
+      <soap:operation soapAction="http://www.ibaspro.com.org/fnWriteFileContent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnGetBuildXML">
+      <soap:operation soapAction="http://www.ibaspro.com.org/fnGetBuildXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="clsDataInterfaceSoap12" type="tns:clsDataInterfaceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="fnExecute">
+      <soap12:operation soapAction="http://www.ibaspro.com.org/fnExecute" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnExecute_Query">
+      <soap12:operation soapAction="http://www.ibaspro.com.org/fnExecute_Query" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnExecute_Hlp">
+      <soap12:operation soapAction="http://www.ibaspro.com.org/fnExecute_Hlp" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnGetFileContent">
+      <soap12:operation soapAction="http://www.ibaspro.com.org/fnGetFileContent" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnWriteFile">
+      <soap12:operation soapAction="http://www.ibaspro.com.org/fnWriteFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SSISExecute">
+      <soap12:operation soapAction="http://www.ibaspro.com.org/SSISExecute" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnWriteFileContent">
+      <soap12:operation soapAction="http://www.ibaspro.com.org/fnWriteFileContent" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="fnGetBuildXML">
+      <soap12:operation soapAction="http://www.ibaspro.com.org/fnGetBuildXML" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="clsDataInterface">
+    <wsdl:port name="clsDataInterfaceSoap" binding="tns:clsDataInterfaceSoap">
+      <soap:address location="http://192.169.5.138/ERP_SER/clsDataInterface.asmx" />
+    </wsdl:port>
+    <wsdl:port name="clsDataInterfaceSoap12" binding="tns:clsDataInterfaceSoap12">
+      <soap12:address location="http://192.169.5.138/ERP_SER/clsDataInterface.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

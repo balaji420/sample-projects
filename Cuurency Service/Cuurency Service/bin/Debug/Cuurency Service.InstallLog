@@ -1,0 +1,371 @@
+﻿Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Creating EventLog source CurSer in log Application...
+Rolling back assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Restoring event log to previous state for source CurSer.
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Attempt to stop service CurSer.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+   logtoconsole = 
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+   logtoconsole = 
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+   logtoconsole = 
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   i = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+   logtoconsole = 
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Attempt to stop service CurSer.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Creating EventLog source CurSer in log Application...
+Rolling back assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Restoring event log to previous state for source CurSer.
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Warning: The source CurSer is not registered on the local machine.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Creating EventLog source CurSer in log Application...
+Rolling back assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Restoring event log to previous state for source CurSer.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Creating EventLog source CurSer in log Application...
+Rolling back assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Restoring event log to previous state for source CurSer.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Creating EventLog source CurSer in log Application...
+Rolling back assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Restoring event log to previous state for source CurSer.
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Warning: The source CurSer is not registered on the local machine.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Creating EventLog source CurSer in log Application...
+Rolling back assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Restoring event log to previous state for source CurSer.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Creating EventLog source CurSer in log Application...
+Rolling back assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Restoring event log to previous state for source CurSer.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Attempt to stop service CurSer.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Attempt to stop service CurSer.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Attempt to stop service CurSer.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.
+Attempt to stop service CurSer.
+Installing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Installing service CurSer...
+Service CurSer has been successfully installed.
+Creating EventLog source CurSer in log Application...
+Committing assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Uninstalling assembly 'd:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.InstallLog
+   assemblypath = d:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+Removing EventLog source CurSer.
+Service CurSer is being removed from the system...
+Service CurSer was successfully removed from the system.

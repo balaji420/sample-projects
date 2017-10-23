@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://www.ibaspro.com.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://www.ibaspro.com.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types />
+  <wsdl:portType name="clsDataAccessServicesSoap" />
+  <wsdl:portType name="clsDataAccessServicesSoap12" />
+  <wsdl:binding name="clsDataAccessServicesSoap" type="tns:clsDataAccessServicesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+  </wsdl:binding>
+  <wsdl:binding name="clsDataAccessServicesSoap12" type="tns:clsDataAccessServicesSoap12">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+  </wsdl:binding>
+  <wsdl:service name="clsDataAccessServices">
+    <wsdl:port name="clsDataAccessServicesSoap" binding="tns:clsDataAccessServicesSoap">
+      <soap:address location="http://192.169.1.228/ERP_SER/clsDataAccessServices.asmx" />
+    </wsdl:port>
+    <wsdl:port name="clsDataAccessServicesSoap12" binding="tns:clsDataAccessServicesSoap12">
+      <soap12:address location="http://192.169.1.228/ERP_SER/clsDataAccessServices.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

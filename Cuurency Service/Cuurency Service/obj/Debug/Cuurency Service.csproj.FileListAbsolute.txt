@@ -1,0 +1,8 @@
+D:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe.config
+D:\New folder\Cuurency Service\Cuurency Service\obj\Debug\Cuurency_Service.ProjectInstaller.resources
+D:\New folder\Cuurency Service\Cuurency Service\obj\Debug\Cuurency Service.csproj.GenerateResource.Cache
+D:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.exe
+D:\New folder\Cuurency Service\Cuurency Service\bin\Debug\Cuurency Service.pdb
+D:\New folder\Cuurency Service\Cuurency Service\obj\Debug\Cuurency Service.exe
+D:\New folder\Cuurency Service\Cuurency Service\obj\Debug\Cuurency Service.pdb
+D:\New folder\Cuurency Service\Cuurency Service\obj\Debug\Cuurency Service.csprojResolveAssemblyReference.cache
