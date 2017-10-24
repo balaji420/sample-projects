@@ -1,0 +1,1 @@
+  doc = new PdfDocument(PaperType.Legal, false, UnitOfMeasure.cm, FileName1);
