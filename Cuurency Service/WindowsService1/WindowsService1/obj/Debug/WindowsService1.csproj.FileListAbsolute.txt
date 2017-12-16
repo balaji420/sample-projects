@@ -1,0 +1,9 @@
+D:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+D:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\New folder\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+D:\New folder\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+D:\New folder\WindowsService1\WindowsService1\obj\Debug\WindowsService1.Cur_Ser.resources
+D:\New folder\WindowsService1\WindowsService1\obj\Debug\CurencyService.ProjectInstaller.resources
+D:\New folder\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+D:\New folder\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache

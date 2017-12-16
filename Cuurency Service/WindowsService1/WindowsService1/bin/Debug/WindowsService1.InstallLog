@@ -1,0 +1,929 @@
+﻿Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Attempt to stop service Cur_Ser.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Attempt to stop service Cur_Ser.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Attempt to stop service Cur_Ser.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Creating EventLog source Cur_Ser in log Application...
+Rolling back assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Cur_Ser.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Creating EventLog source Cur_Ser in log Application...
+Rolling back assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Cur_Ser.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Creating EventLog source Cur_Ser in log Application...
+Rolling back assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Cur_Ser.
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Creating EventLog source Cur_Ser in log Application...
+Rolling back assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Cur_Ser.
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Creating EventLog source Cur_Ser in log Application...
+Rolling back assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Restoring event log to previous state for source Cur_Ser.
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Attempt to stop service Cur_Ser.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Attempt to stop service Cur_Ser.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Attempt to stop service Cur_Ser.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
+Installing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Installing service Cur_Ser...
+Service Cur_Ser has been successfully installed.
+Creating EventLog source Cur_Ser in log Application...
+Committing assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Uninstalling assembly 'd:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+Removing EventLog source Cur_Ser.
+Service Cur_Ser is being removed from the system...
+Service Cur_Ser was successfully removed from the system.
