@@ -1,0 +1,51 @@
+select dbo.gefgGetDecPass(usrpasswd), * from progemgusrmas with(nolock) where usrdelid =0  and usrdispnm like 'loc%'
+
+regsvr32 "C:\Program Files\Common Files\Microsoft Shared\DAO\DAO360.DLL"
+
+wscript -regserver
+
+cd c:\Windows\Microsoft.NET\Framework\v4.0.30319
+cd "d:New folder\WindowsService1\WindowsService1\bin\Debug"
+installutil  "d:\New folder\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe"
+
+
+string selectCmd = 
+         String.Format(
+         "select * from recording where id = {0}",
+         id);
+
+      SqlConnection myConnection = 
+         new SqlConnection(
+         "server=(local);database=recordings;Trusted_Connection=yes");
+      SqlDataAdapter myCommand = new SqlDataAdapter(selectCmd, 
+         myConnection);
+
+      DataSet ds = new DataSet();
+      myCommand.Fill(ds, "recording");
+
+      String trackSelect = 
+         String.Format(
+         "select * from Track where recordingId = {0} order by Id",
+         id);
+
+      SqlDataAdapter trackCommand = 
+         new SqlDataAdapter(trackSelect, myConnection);
+      trackCommand.Fill(ds, "track");
+
+      ds.Relations.Add("RecordingTracks",
+         ds.Tables["recording"].Columns["id"],
+         ds.Tables["track"].Columns["recordingId"]);
+
+      return ds;
+
+
+SCREEN 106,I,A
+
+SELECT dbo.DECPASSWD('' )
+
+use dbname
+go
+decrypt_sql05 PrcHistory
+go
+
+sp_rename 'ProFaCurConvConfiglog.logCurFk', 'logBasCurFk', 'COLUMN' 
