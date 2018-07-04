@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+body{ margin:0px; padding:0px; max-width:100%; height:100%; font-size:14px; width:100%;font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;}
+
+.no-padding{ padding-left:0px; padding-right:0px;}
+.center{ text-align:center;}
+.form-control {border-radius: 0px; -webkit-box-shadow: inset 0 0px 0px rgba(0,0,0,0);box-shadow: inset 0 0px 0px rgba(0,0,0,0);}
+.btn {padding: 4px 20px; line-height: 18px;border-radius: 2px;}
+
+.banner_s{height:100%; font-size:14px; width:100%; background:url(../images/icon_bg.jpg) no-repeat center;background-size: cover; padding:100px 0px 70px; 
+ top:0; bottom:0; left:0px; position:fixed;min-height:100%;}
+ 
+.banner_s .form-area{float:right;background: #fff;padding:20px 15px 20px 15px;
+border-radius: 5px;border: #01aeef 1px solid;}
+
+.banner_s .logo{ text-align:center; padding:0px 0px 20px 0px;}
+.banner_s .logo img {width: 200px;height: auto;margin-top: 0px;}
+.banner_s .button{ text-align:left; margin-bottom:2px;}
+.banner_s .head {background: #00aeef;padding: 5px;margin: 0px 0px 20px 0px;color: #fff;}
+.banner_s .head h4{margin-top: 0px; margin-bottom: 0px;}
+.banner_s .form-group {margin-bottom:15px;}
+.banner_s .btn-default {color: #fff; background-color: #00aeef; border-color: #00aeef;margin: 0px 3px;}
+.carousel-caption {right: 0;left: 10%;top: 10%;padding-bottom: 30px;    text-align: left;}
+.carousel-caption h4 {font-size: 22px;font-weight: bold;}
+li a{ line-height:2;color:#FFFFFF;}
+.glyphicon-ok{ padding-right:7px;    color: #dc8f1c;}
+.no-padding-left{ padding-left:0px;}
+.no-padding-right{ padding-right:0px;}
+.input-group-addon {padding: 3px 12px;}
+.forget{ padding-top:10px; font-size:12px;}
+.form-control {height: 27px;}
+.banner_s .button a {font-size: 12px;}
+.text-left {
+    padding:120px 0px 0px 50px;
+}
+.text-left  h3 {
+    color: #fff;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 700;font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.text-left h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500; padding-top:7px;font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.text-left h4 .glyphicon-ok {
+    padding-right: 9px;
+    color: #fefefe;
+    border: 2px solid #90ad0d;
+    border-radius: 50%;
+    padding: 5px;
+    margin-right: 7px;
+    font-size: 13px;top:0;
+}
+#cloud-scroll {
+width: 100%;
+height:350px;
+position:absolute;margin-top:50px;
+background: url("../images/bg_scroll.jpg");
+-webkit-animation: backgroundScroll 70s linear infinite;
+animation: backgroundScroll 70s linear infinite;
+}
+.fill{width:100%;height:100%;}
+@-webkit-keyframes backgroundScroll {
+from {background-position: 0 0;}
+to {background-position: -2796px 0;}
+}
+        
+@keyframes backgroundScroll {
+from {background-position: 0 0;}
+to {background-position: -2796px 0;}
+}
+.group   { position:relative; margin-bottom:30px; }
+input { font-size:16px;height:27px; padding:3px;display:block;width:100%;border:none; border-bottom:1px solid #757575;}
+input:focus { outline:none; }
+label {color:#999;font-size:16px;font-weight:normal;position:absolute;pointer-events:none;left:0px;top:5px;
+transition:0.2s ease all; -moz-transition:0.2s ease all; -webkit-transition:0.2s ease all;}
+.glyphicon-search{color: #999;font-size: 14px;font-weight: normal;position: absolute;pointer-events: none;
+top: 7px;right: 7px;}
+input:focus ~ label, input:valid ~ label{top:-20px;font-size:14px; color:#00aeef;}
+.bar 	{ position:relative; display:block; width:100%; }
+.bar:before, .bar:after{content:'';height:1px; width:0;bottom:1px; position:absolute; background:#00aeef; 
+transition:0.2s ease all; -moz-transition:0.2s ease all; -webkit-transition:0.2s ease all;}
+.bar:before {left:50%;}
+.bar:after {right:50%;}
+input:focus ~ .bar:before, input:focus ~ .bar:after {width:50%;}
+.highlight { position:absolute;height:60%; width:100px; top:25%;left:0;pointer-events:none;opacity:0.5;}
+input:focus ~ .highlight { -webkit-animation:inputHighlighter 0.3s ease;
+-moz-animation:inputHighlighter 0.3s ease;
+animation:inputHighlighter 0.3s ease;}
+@-webkit-keyframes inputHighlighter {
+from { background:#5264AE; }
+to 	{ width:0; background:transparent; }
+}
+@-moz-keyframes inputHighlighter {
+from { background:#5264AE; }
+to 	{ width:0; background:transparent; }
+}
+@keyframes inputHighlighter {
+from { background:#5264AE; }
+to 	{ width:0; background:transparent; }
+}
+/* Preloader */
+#preloader {position: fixed;top:0;left:0;right:0;bottom:0;background-color:#fff;z-index:99;}
+#status {width:200px;height:200px;position:absolute;left:50%;top:50%;background-image:url(../images/status.gif);
+	background-repeat:no-repeat;background-position:center;	margin:-100px 0 0 -100px;}
+	
+@media only screen and (max-width: 495px) {
+.banner_s{position:fixed;padding:20px 0px; text-align:center;}
+.banner_s .form-area{margin:0px auto;float: none;left:0px;}
+.no-padding-right-sm{ padding-right:0px}
+.banner_s .row{ padding:0px 15px;}
+.text-left { padding: 5px 0px 0px 30px;}
+.text-left h3 {color: #fff;font-size: 22px;}
+.text-left h4 {font-size: 18px; text-indent: -35px;}
+.text-left h4 .glyphicon-ok {padding: 4px;margin-right: 7px; font-size: 13px; top: 3; text-indent: 0;}
+.btn-primary:focus, .btn-primary:hover { color: #fff;background-color: #00aeef;border-color: #00aeef;}
+.banner_s .btn { padding: 4px 0px; width:90%;}
+
+.modal .button {text-align: center; width:100%;}
+.modal .btn { padding: 4px 0px; width:49%;}
+.modal .btn-default {color: #fff; background-color: #00aeef;border-color: #00aeef;}
+
+.cls{    background: #231f20; padding: 1px 4px; margin: -3px; font-size: 16px; opacity: 1; border-radius: 50%; text-shadow: 0 0px 0 #fff;}
+button.close {padding: 1px 4px; background: #231f20; color: #fff;}
+.modal-header { padding: 0px; border-bottom: 1px solid #fff;}
+.btn-model{ margin:60px 0px 20px; background-color: #00aeef; border-color: #00aeef;}
+#cloud-scroll {margin-top: 0px;}
+.text-left h4 {padding-top:0px;}
+#cloud-scroll { width: 100%; height: 250px;}
+
+.modal .logo {text-align: center; padding: 0px 0px 10px 0px;}
+.modal .logo img { width: 200px; height: auto;margin-top: 0px;}
+.modal .head {background: #00aeef;padding: 5px; margin: 0px 0px 20px 0px;color: #fff;}
+.modal .head h4 {margin-top: 0px; margin-bottom: 0px;}
+.group { margin-bottom:20px;}
+.banner .button { margin-top: -5px;}
+}

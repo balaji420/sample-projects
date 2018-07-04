@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Login for page</title>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/style5.css" rel="stylesheet">
+<link href="css/animate.css" rel="stylesheet">
+</head>
+<body>
+<!-- Preloader -->
+<div id="preloader">
+	<div id="status">&nbsp;</div>
+</div>
+<div class="fill">
+<div class="banner_s">
+<div class="logo hidden-lg hidden-md">
+<img src="images/c-logo1.png">
+</div>
+<div id="cloud-scroll"></div>
+<div class="container">
+<div class="row">
+<div class="col-md-8 text-left">
+<h3 class="wow animated bounceInDown" data-wow-delay="1.3s">IBAS~PRO  </h3>
+<h4 class="wow animated bounceInLeft" data-wow-delay="1.9s">
+<span class="glyphicon glyphicon-ok"></span> Manage all  financial operations </h4>
+<h4 class="wow animated bounceInLeft" data-wow-delay="2.5s">
+<span class="glyphicon glyphicon-ok"></span> Inventory,Purchasing & Subcontracting.</h4>
+<h4 class="wow animated bounceInLeft" data-wow-delay="3s">
+<span class="glyphicon glyphicon-ok"></span>Custimized Financial Reports</h4>
+</div>
+<div class="form-area col-sm-4 zoomIn animated hidden-xs" data-wow-delay="1s">
+<div class="logo">
+<img src="images/c-logo1.png">
+</div>
+<div class="center">
+<div class="head"><h4>Login</h4></div>
+</div>
+<form>
+<div class="group">      
+<input type="text" required><span class="highlight">
+</span><span class="bar"></span><label>Name</label>
+</div>
+<div class="group">      
+<input type="email" required><span class="highlight"></span>
+<span class="bar"></span><label>Email</label>
+</div>
+<div class="group">      
+<input type="text" required><span class="glyphicon glyphicon-search"></span>
+<span class="highlight"></span><span class="bar"></span><label>Unit</label>
+</div>
+<div class="group">      
+<input type="text" required><span class="glyphicon glyphicon-search"></span>
+<span class="highlight"></span><span class="bar"></span><label>Accounting Period</label>
+</div>
+<div class="button">
+<button type="submit" class="btn btn-default">Submit</button>
+<button type="submit" class="btn btn-default">Reset</button>
+<a href="#" class="hidden-xs">Forget Password</a>
+<div class="forget hidden-lg"><a href="#">Forget Password</a></div>
+</div>
+<div class="col-sm-12 no-padding" style="margin-top:-7px;">
+<div class="col-sm-3 col-xs-3 no-padding"><img src="images/verisign-secured.png" style="width:92%;margin-top:20px;"></div>
+<div class="col-sm-9 col-xs-9 no-padding"><span style="padding-left:5px; font-size:12px;"><br>This site choose verisign <a href="#">SSL</a> for secure<br>E-commerce confidential communication.</span></div>
+</div><div class="clearfix"></div>
+</form>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<a href="#" class="btn btn-primary btn-model hidden-lg hidden-md" data-toggle="modal" data-target="#myModal">Login</a>
+</div>
+</div>
+<div class="modal fade hidden-lg" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+   <div class="modal-header">
+        <button type="button" class="close cls" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        </div>
+      <div class="modal-body">
+       <div class="form-area">
+<div class="logo">
+<img src="images/c-logo1.png">
+</div>
+<div class="center">
+<div class="head"><h4>Login</h4></div>
+</div>
+<form>
+<div class="group">      
+<input type="text" required><span class="highlight">
+</span><span class="bar"></span><label>Name</label>
+</div>
+<div class="group">      
+<input type="email" required><span class="highlight"></span>
+<span class="bar"></span><label>Email</label>
+</div>
+<div class="group">      
+<input type="text" required><span class="glyphicon glyphicon-search"></span>
+<span class="highlight"></span><span class="bar"></span><label>Unit</label>
+</div>
+<div class="group">      
+<input type="text" required><span class="glyphicon glyphicon-search"></span>
+<span class="highlight"></span><span class="bar"></span><label>Accounting Period</label>
+</div>
+<div class="button">
+<button type="submit" class="btn btn-default">Submit</button>
+<button type="submit" class="btn btn-default">Reset</button>
+<a href="#" class="hidden-xs">Forget Password</a>
+<div class="forget hidden-lg"><a href="#">Forget Password</a></div>
+</div>
+<div class="col-sm-12 no-padding" style="margin-top:-7px;">
+<div class="col-sm-3 col-xs-3 no-padding"><img src="images/verisign-secured.png" style="width:92%;margin-top:20px;"></div>
+<div class="col-sm-9 col-xs-9 no-padding"><span style="padding-left:5px; font-size:12px;"><br>This site choose verisign <a href="#">SSL</a> for secure<br class="hidden-xs">E-commerce confidential communication.</span></div>
+</div><div class="clearfix"></div>
+</form>
+<div class="clearfix"></div>
+</div>
+      </div>
+     </div>
+  </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>-->
+<!-- Preloader -->
+<script type="text/javascript">
+	//<![CDATA[
+		$(window).on('load', function() { // makes sure the whole site is loaded 
+			$('#status').fadeOut(); // will first fade out the loading animation 
+            $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website. 
+            $('body').delay(350).css({'overflow':'visible'});
+		})
+	//]]>
+</script> 
+<script src="js/bootstrap.min.js"></script>
+<script src="js/wow.min.js"></script>
+		<script>
+			new WOW().init();
+		</script>
+</body>
+</html>
